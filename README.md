@@ -1,4 +1,4 @@
-# mine-tensorflow-examples
+# mine-kaggle-examples
 
 this is a set of notebooks about my tensorflow examples in [kaggle](https://www.kaggle.com).
 

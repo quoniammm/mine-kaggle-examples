@@ -1,15 +1,15 @@
 # mine-kaggle-examples
 
-this is a set of notebooks about my tensorflow examples in [kaggle](https://www.kaggle.com).
+这是我参加 [kaggle](https://www.kaggle.com) 的记录 关于我的成长
 
-## Project One: [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+## 项目一: [手写识别(Digit Recognizer)](https://www.kaggle.com/c/digit-recognizer)
 
-1. [first submit](https://github.com/quoniammm/mine-tensorflow-examples/blob/master/digits_reco/digits_reco_88%25281438th%2529.ipynb)
+1. [第一次提交(first submit)](https://github.com/quoniammm/mine-tensorflow-examples/blob/master/digits_reco/digits_reco_88%25281438th%2529.ipynb)
 
 > score: 0.88757 rank: 1438th <br>
 the implement: one layer nerual network,activation function(softmax)
 
-2. [second submit](https://github.com/quoniammm/mine-kaggle-examples/blob/master/digits_reco/digits_reco_cnn.ipynb)
+2. [第二次提交(second submit)](https://github.com/quoniammm/mine-kaggle-examples/blob/master/digits_reco/digits_reco_cnn.ipynb)
 
 > score: 0.98500 rank: 538th <br>
 the implement: <b>cnn</b> <br>

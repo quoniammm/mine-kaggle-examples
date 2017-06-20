@@ -1,6 +1,6 @@
 # mine-kaggle-examples
 
-这是我参加 [kaggle](https://www.kaggle.com) 的记录 关于我的成长
+一些 [kaggle](https://www.kaggle.com) 的项目
 
 ## 项目一: [手写识别(Digit Recognizer)](https://www.kaggle.com/c/digit-recognizer)
 
